@@ -1,4 +1,4 @@
-### Zoo Class deliverables
+### Zoo Class Deliverables:
 # - A `zoo` should be initialized with a name and a location, which should both be passed as strings.
 # - `Zoo#location` should return the location of the zoo instance.
 # - `Zoo#name` should return the name of the zoo instance.
